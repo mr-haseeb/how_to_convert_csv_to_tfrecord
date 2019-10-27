@@ -103,3 +103,7 @@ python3 generate_tfrecord.py --csv_input=data/train_labels.csv  --output_path=da
 ```
 python3 generate_tfrecord.py --csv_input=data/test_labels.csv  --output_path=data/test.record --images_path=images/test
 ```
+```
+See this
+http://javedmandary.blogspot.com/2018/03/object-detection-labelling-image.html
+````
