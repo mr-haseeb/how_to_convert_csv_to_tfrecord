@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>49.jpg</filename>
+	<path>/home/haseeb/Desktop/data/train/49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>solan de cabras</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>19</ymin>
+			<xmax>176</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>solan de cabras</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>22</ymin>
+			<xmax>95</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>
